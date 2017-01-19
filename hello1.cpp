@@ -18,7 +18,7 @@ char ch;
 output<<str;
 output.close();
 
-while(!input.eof())
+while(!nput.eof())
 {
 input.get(ch);
 cout<<ch;
