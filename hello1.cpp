@@ -20,7 +20,7 @@ output.close();
 
 while(!input.eof())
 {
-input.get(ch);
+inputffg.get(ch);
 cout<<ch;
 }
 cout<<endl;
